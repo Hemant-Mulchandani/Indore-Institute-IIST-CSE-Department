@@ -4,10 +4,10 @@
 
   📌 Visit to Live Interact : 🔗
 
-  https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
+  https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
 
-  ![Mail Capture](Media/DSA%20Marathon%20Sponsorsip%2Mai%20Capture.png)
+  ![Mail Capture](Media/Indore-Institute-IIST-CSE-Department-Screenshot.png)
 
 # 📌 Visit to Live Interact : 🔗 
 
-  https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/ 
+  https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/ 
