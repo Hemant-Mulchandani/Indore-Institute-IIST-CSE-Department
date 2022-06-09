@@ -6,7 +6,7 @@
 
   https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
 
-  ![Mail Capture](Media/DSA%20Marathon%20Sponsorship%2Mail%20Capture.png)
+  ![Mail Capture](Media/DSA%20Marathon%20Sponsorsip%2Mail%20Capture.png)
 
 # 📌 Visit to Live Interact : 🔗 
 
