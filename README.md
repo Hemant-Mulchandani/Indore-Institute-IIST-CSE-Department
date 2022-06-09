@@ -10,4 +10,4 @@
 
 # 📌 Visit to Live Interact : 🔗 
 
-  https://hemant-mulchandani.github.io/DSA-Marathon-Sponsorship-Email/ 
+  https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/ 
