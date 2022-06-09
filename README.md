@@ -2,10 +2,6 @@
 
 # [👨🏻‍💻 Indore Institute IIST CSE Department 🚀](https://hemant-mulchandani.github.io/Indore-Institute-IIST-CSE-Department/)
 
-  📌 Visit to Live Interact : 🔗
-
-  https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
-  
 🔗 Implementation of Language and versions
 1️⃣ HTML5
 2️⃣ CSS3
@@ -26,6 +22,10 @@
 
 Our hard work paid off and our team won Designo with flying 🌈colors securing the 🥇 first position among all the teams that participated and a cash prize of 💰 Rs. 9000.
 
+  📌 Visit to Live Interact : 🔗
+
+  https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
+  
   ![Mail Capture](Media/Indore-Institute-IIST-CSE-Department-Screenshot.png)
 
 # 📌 Visit to Live Interact : 🔗 
