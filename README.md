@@ -30,6 +30,6 @@ Our hard work paid off and our team won Designo with flying 🌈colors securing 
   ![Mail Capture](Media/Indore-Institute-IIST-CSE-Department-Screenshot.png)
   -->
   
-# 📌 Visit to Live Interact : 🔗 
+## 📌 Visit to Live Interact : 🔗 
 
   https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/ 
