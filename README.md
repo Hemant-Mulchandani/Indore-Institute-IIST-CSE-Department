@@ -24,7 +24,8 @@ Our hard work paid off and our team won Designo with flying 🌈colors securing 
 
   https://Hemant-Mulchandani.github.io/Indore-Institute-IIST-CSE-Department/
   
-  
+  ![Indore-Institute-IIST-CSE-Department-Screenshot](https://user-images.githubusercontent.com/89768465/195811924-dfc5e1ef-e8ce-41c9-b4a0-c72ca31c2b90.png)
+
   <!---
   ![Mail Capture](Media/Indore-Institute-IIST-CSE-Department-Screenshot.png)
   -->
